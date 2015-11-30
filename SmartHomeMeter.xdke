@@ -1,0 +1,98 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "BlockerActuator.js": {
+        "previousModTime": 1448403145236,
+        "modified": 1448403145236,
+        "seen": true,
+        "name": "BlockerActuator.js"
+      },
+      "Consumption.js": {
+        "previousModTime": 1448912031922,
+        "modified": 1448912031922,
+        "seen": true,
+        "name": "Consumption.js"
+      },
+      "Key.js": {
+        "previousModTime": 1448762309027,
+        "modified": 1448762309027,
+        "seen": true,
+        "name": "Key.js"
+      },
+      "KeyPad.js": {
+        "previousModTime": 1448910903448,
+        "modified": 1448910903448,
+        "seen": true,
+        "name": "KeyPad.js"
+      },
+      "LCD.js": {
+        "previousModTime": 1448398714431,
+        "modified": 1448398714431,
+        "seen": true,
+        "name": "LCD.js"
+      },
+      "LICENSE": {
+        "previousModTime": 1448397015927,
+        "modified": 1448397015927,
+        "seen": true,
+        "name": "LICENSE"
+      },
+      "main.js": {
+        "previousModTime": 1448920292479,
+        "modified": 1448920292479,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1448910476578,
+        "modified": 1448910476578,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1448397448743,
+        "modified": 1448397448743,
+        "seen": true,
+        "name": "README.md"
+      },
+      "SmartHomeMeter.xdk": {
+        "previousModTime": 1448910496180,
+        "modified": 1448910496180,
+        "seen": true,
+        "name": "SmartHomeMeter.xdk"
+      },
+      "SmartHomeMeter.xdke": {
+        "previousModTime": 1448920497076,
+        "modified": 1448920497076,
+        "seen": true,
+        "name": "SmartHomeMeter.xdke"
+      },
+      "User.js": {
+        "previousModTime": 1448896935330,
+        "modified": 1448896935330,
+        "seen": true,
+        "name": "User.js"
+      },
+      "UserList.js": {
+        "previousModTime": 1448907035921,
+        "modified": 1448907035921,
+        "seen": true,
+        "name": "UserList.js"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1448910496142,
+        "modified": 1448910496142,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {}
+  }
+}
